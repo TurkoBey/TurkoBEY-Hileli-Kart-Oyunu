@@ -1,0 +1,16 @@
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\bin\Debug\MetroSet UI.dll
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.FrmAcilisEkrani.resources
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.FrmAnaForm.resources
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.FrmOyunNedir.resources
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.Properties.Resources.resources
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.csproj.GenerateResource.cache
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.csproj.CopyComplete
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.FrmSonucForm.resources
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Hileli.Kart.Oyunu.csproj.AssemblyReference.cache
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\bin\Debug\TurkoBEY.Kart.Oyunu.exe.config
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\bin\Debug\TurkoBEY.Kart.Oyunu.exe
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\bin\Debug\TurkoBEY.Kart.Oyunu.pdb
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Kart.Oyunu.exe.licenses
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Kart.Oyunu.exe
+C:\Users\ROOT\source\repos\TurkoBEY.Hileli.Kart.Oyunu\TurkoBEY.Hileli.Kart.Oyunu\obj\Debug\TurkoBEY.Kart.Oyunu.pdb
