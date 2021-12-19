@@ -19,7 +19,7 @@ namespace TurkoBEY.Hileli.Kart.Oyunu
 
         private void btnGithub_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/TurkoBey");
+            System.Diagnostics.Process.Start("https://github.com/TurkoBey/TurkoBEY-Hileli-Kart-Oyunu");
         }
         private void btnBaslat_Click(object sender, EventArgs e)
         {
